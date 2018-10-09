@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 import java.util.Random;
-
+//teste
 public class Jogo {
 
     public static void main(String[] args) {
